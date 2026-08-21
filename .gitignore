@@ -1,0 +1,15 @@
+# ── Sensitive config — NEVER commit these ──
+config.php
+
+# ── Uploaded images (optional — remove if you want to track them) ──
+# images/
+
+# ── System files ──
+.DS_Store
+Thumbs.db
+
+# ── IDE files ──
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
